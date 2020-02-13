@@ -14,3 +14,8 @@ with Attention
 
 Stacking multiple models
 
+#### Packages Used
+Python, Keras, NLTK
+
+
+LICENSE: This project is licensed under the terms of the MIT license.
