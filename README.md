@@ -1,2 +1,16 @@
 ## NLP MultipleEmbeddings QuoraCompetition
 NLP Multiple Embeddings Quora Insincere Questions Classification Challenge
+
+This notebook illustrates advanced useful techniques to tackle NLP problem. 
+Please refer to the following link for dataset and problem statement:
+https://www.kaggle.com/c/quora-insincere-questions-classification
+
+### Steps:
+Different embeddings
+
+Cyclical LearningRate
+
+with Attention
+
+Stacking multiple models
+
