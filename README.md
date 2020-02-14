@@ -5,7 +5,7 @@ This notebook illustrates advanced useful techniques to tackle NLP problem.
 Please refer to the following link for dataset and problem statement:
 https://www.kaggle.com/c/quora-insincere-questions-classification
 
-### Steps:
+### Steps
 Different embeddings
 
 Cyclical LearningRate
